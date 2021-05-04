@@ -12,6 +12,7 @@ Full stack developer wannabe here! 💻✨</h3>
 </br>
 <details>
   <summary> 💬 How to reach me</summary>
+  ![Linkedin: Recieire Carbelim](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recieirecarbelim/)
 <a href="[https://linkedin.com/in/recieirecarbelim](https://linkedin.com/in/recieirecarbelim)"><img src="[https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
 <a href="[https://instagram.com/recieirecarbelim](https://instagram.com/recieirecarbelim)"><img src="[https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)"></a>
 </details>
