@@ -13,6 +13,7 @@ Full stack developer wannabe here! 💻✨</h3>
 <details>
   <summary> 💬 How to reach me</summary>
   <a href="https://www.linkedin.com/in/recieirecarbelim/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/recieirecarbelim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </details>
 <br/>
 
@@ -20,7 +21,7 @@ Full stack developer wannabe here! 💻✨</h3>
 <!--
 **recieire/recieire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="" />
-
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
