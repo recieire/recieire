@@ -14,7 +14,7 @@ Full stack developer wannabe here! 💻✨</h3>
   <summary> 💬 How to reach me</summary>
 </details>
 <br/>
-
+![Linkedin: Recieire Carbelim](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recieirecarbelim/)
 <!--
 **recieire/recieire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
