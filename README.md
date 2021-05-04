@@ -1,4 +1,4 @@
-<div align="center"><h1><img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="30px"> Hello 🌎!</h1></div>
+<div align="center"><h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Hello 🌎!</h1></div>
 <h3>I'm Recieire Carbelim.<br>
 Full stack developer wannabe here! 💻✨</h3>
 </br>
@@ -14,7 +14,8 @@ Full stack developer wannabe here! 💻✨</h3>
   <summary> 💬 How to reach me</summary>
 </details>
 <br/>
-![Linkedin: Recieire Carbelim](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recieirecarbelim/)
+<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+<img src="" />
 <!--
 **recieire/recieire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
