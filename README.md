@@ -12,13 +12,14 @@ Full stack developer wannabe here! 💻✨</h3>
 </br>
 <details>
   <summary> 💬 How to reach me</summary>
-  <a href="https://www.linkedin.com/in/recieirecarbelim/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/recieirecarbelim/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 </details>
 <br/>
 
-<img src="" />
+
 <!--
 **recieire/recieire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="" />
 
 Here are some ideas to get you started:
 
