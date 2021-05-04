@@ -16,8 +16,6 @@ Full stack developer wannabe here! 💻✨</h3>
 <a href="[https://instagram.com/recieirecarbelim](https://instagram.com/recieirecarbelim)"><img src="[https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)"></a>
 </details>
 <br/>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=recieire.recieire)
-<div align="center">[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/recieire)](https://github.com/recieire)</div>
 <!--
 **recieire/recieire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
