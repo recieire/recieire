@@ -13,7 +13,7 @@
 <span>Full stack developer wannabe here! 💻✨</span>
 </br>
 <ul>
-<li>🚀 ┇I’m currently studying with <a href="https://rocketseat.com.br/" target="_blank">@Rocketseat</a> </li>
+<li>🚀 ┇I’m currently studying with <a href="https://github.com/rocketseat" target="_blank">@Rocketseat</a> </li>
 <li>😍 ┇Passionate about problem solving, specially through programming</li>
 <li>🤖 ┇Love everything related to Tech in general</li>
 <li>🔭 ┇Always feeling prompted to take challenges</li>
