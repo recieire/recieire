@@ -2,7 +2,7 @@
 </br>
 <h2>I'm Recieire Carbelim.</h2>
 <details align="center">
-  <summary align="left">🤜🤛</summary>
+  <summary align="left">Hit me up 🤜🤛</summary>
   <a href="https://www.linkedin.com/in/recieirecarbelim/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/recieirecarbelim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/15673229/recieire-carbelim" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
