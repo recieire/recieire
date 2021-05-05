@@ -4,14 +4,14 @@
 
 
 
-<strong><span>Full stack developer wannabe here! 💻✨</span></strong>
+<strong><h3>Full stack developer wannabe here! 💻✨</h3></strong>
 </br>
 <ul>
-<li>🚀 ┇I’m currently taking <a href="https://github.com/rocketseat" target="_blank">@Rocketseat</a>'s <strong>Ignite</strong> bootcamp training</li>
-<li>😍 ┇Passionate about problem solving, specially through programming</li>
-<li>🤖 ┇Love everything related to Tech in general</li>
-<li>🔭 ┇Always feeling prompted to take challenges</li>
-<li>😄 ┇Thankful for each day's opportunity to to learn more and better</li>
+<li><h3>🚀 ┇I’m currently taking <a href="https://github.com/rocketseat" target="_blank">@Rocketseat</a>'s <strong>Ignite</strong> bootcamp training</h3></li>
+<li><h3>😍 ┇Passionate about problem solving, specially through programming</h3></li>
+<li><h3>🤖 ┇Love everything related to Tech in general</h3></li>
+<li><h3>🔭 ┇Always feeling prompted to take challenges</h3></li>
+<li><h3>😄 ┇Thankful for each day's opportunity to to learn more and better</h3></li>
 </ul>
 </br>
 <details align="center">
