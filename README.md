@@ -4,7 +4,7 @@
 
 
 
-<strong><h3>Full stack developer wannabe here! 💻✨</h3></strong>
+<h3><strong>Full stack developer wannabe here! 💻✨</strong></h3>
 </br>
 <ul>
 <li><h3>🚀 ┇I’m currently taking <a href="https://github.com/rocketseat" target="_blank">@Rocketseat</a>'s <strong>Ignite</strong> bootcamp training</h3></li>
